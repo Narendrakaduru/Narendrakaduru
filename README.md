@@ -23,7 +23,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-kaduru-9b3a49241/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kaduru_narendra/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/Narendrakaduru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=About.me&logoColor=white)](https://narendra-kaduru-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-kaduru-9b3a49241/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kaduru_narendra/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/Narendrakaduru)
 
 ---
 
