@@ -2,7 +2,7 @@
 
 👋 Hi, I’m **Narendra Kaduru**
 
-🔭 Currently working at **HCL Technologies** as a passionate DevOps enthusiast.
+🔭 Currently working at **VisionsDream Cloud** as a Senior Software Engineer.
 
 🌱 Actively mastering **Terraform** to automate infrastructure like a pro.
 
