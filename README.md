@@ -6,7 +6,7 @@
 
 🌱 Actively mastering **Terraform** to automate infrastructure like a pro.
 
-👯 Looking for exciting **DevOps Engineer** opportunities where I can bring automation, reliability, and speed to your teams.
+<!-- 👯 Looking for exciting **DevOps Engineer** opportunities where I can bring automation, reliability, and speed to your teams. -->
 
 💬 Feel free to ask me about **Jenkins**, **Ansible**, **Docker**, **Kubernetes**, and everything DevOps!
 
