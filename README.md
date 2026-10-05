@@ -15,6 +15,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=narendrakaduru&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="GitHub Profile Views" />
 </p>
+
 ---
 
 ### ⚡ What I Bring to the Table
